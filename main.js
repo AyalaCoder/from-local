@@ -6,9 +6,6 @@ const b=()=>{
     alert ("hi")
     return 7
 }
-const c=()=>{
-    return 'a'
-}
-const d=()=>{
-    return 'aaaa'
+const f=()=>{
+    return 'f'
 }
